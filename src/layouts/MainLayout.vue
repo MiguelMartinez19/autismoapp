@@ -11,6 +11,7 @@
         <q-btn flat label="Síntomas" @click="goTo('/sintomas')" />
         <q-btn flat label="Recursos" @click="goTo('/recursos')" />
         <q-btn flat label="planeaciones" @click="goTo('/planeaciones')" />
+        <q-btn flat label="Juego" @click="goTo('/Juego')" />
       </q-toolbar>
     </q-header>
 
