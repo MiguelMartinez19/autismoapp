@@ -24,10 +24,10 @@
         <q-img
           :src="s.imagen"
           :alt="s.titulo"
-          ratio="16/9"
+          style="max-width: 450px;"
           class="rounded-borders shadow-2 q-mb-md"
         />
-        <iframe
+        <!-- <iframe
           width="100%"
           height="280"
           :src="s.video"
@@ -35,7 +35,7 @@
           frameborder="0"
           allowfullscreen
           class="rounded-borders shadow-1"
-        ></iframe>
+        ></iframe> -->
       </div>
     </div>
   </q-page>
@@ -55,7 +55,7 @@ const sintomas = [
       'Menor contacto visual o lenguaje corporal inusual.',
       'Dificultad para entender ironías o dobles sentidos.'
     ],
-    imagen: 'https://cdn.openai.com/autismo/comunicacion.jpg',
+    imagen: '/recursos/sinto1.png',
     video: 'https://www.youtube.com/embed/eq7M4h_gGvE'
   },
   {
@@ -70,7 +70,7 @@ const sintomas = [
       'Dificultad para adaptarse a cambios inesperados.',
       'Interés intenso en objetos o patrones visuales.'
     ],
-    imagen: 'https://cdn.openai.com/autismo/rutinas.jpg',
+    imagen: '/recursos/sinto2.png',
     video: 'https://www.youtube.com/embed/nxqK6U97HDY'
   },
   {
@@ -84,7 +84,7 @@ const sintomas = [
       'Conocimiento avanzado sobre un tema específico.',
       'Uso de los intereses como forma de conexión social.'
     ],
-    imagen: 'https://cdn.openai.com/autismo/intereses.jpg',
+    imagen: '/recursos/sinto3.png',
     video: 'https://www.youtube.com/embed/OvI1Y2D-gYI'
   },
   {
@@ -98,7 +98,7 @@ const sintomas = [
       'Necesidad de objetos con texturas o peso específico.',
       'Conductas de autoestimulación (mirar luces, girar objetos).'
     ],
-    imagen: 'https://cdn.openai.com/autismo/sensibilidad.jpg',
+    imagen: '/recursos/sinto4.png',
     video: 'https://www.youtube.com/embed/l1b6LkUScL0'
   },
   {
@@ -112,7 +112,7 @@ const sintomas = [
       'Tendencia a respuestas emocionales atípicas.',
       'Necesidad de apoyo en la comunicación afectiva.'
     ],
-    imagen: 'https://cdn.openai.com/autismo/emociones.jpg',
+    imagen: '/recursos/sinto5.png',
     video: 'https://www.youtube.com/embed/7JH0E0PG6Fw'
   }
 ]
