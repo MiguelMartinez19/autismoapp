@@ -10,7 +10,7 @@
         <q-btn flat label="Qué es el Autismo" @click="goTo('/autismo')" />
         <q-btn flat label="Síntomas" @click="goTo('/sintomas')" />
         <q-btn flat label="Recursos" @click="goTo('/recursos')" />
-        <q-btn flat label="Contacto" @click="goTo('/contacto')" />
+        <q-btn flat label="planeaciones" @click="goTo('/planeaciones')" />
       </q-toolbar>
     </q-header>
 
