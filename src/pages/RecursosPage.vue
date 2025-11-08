@@ -129,6 +129,22 @@ const archivos = [
     previsualizable: true,
     color: 'red',
   },
+  {
+    nombre: 'Infografía Inclusiòn Tutoria 5 (PDF)',
+    descripcion: 'Documento en PDF',
+    url: '/recursos/Infografía Inclusiòn Tutoria 5.pdf',
+    icono: 'picture_as_pdf',
+    previsualizable: true,
+    color: 'red',
+  },
+  {
+    nombre: 'JESSICA PAOLA CASTILLO RODRIGUEZ CAMILO ALBERTO VARON BENITEZ EDWAR LEANDRO MOLINA (PDF)',
+    descripcion: 'Documento en PDF',
+    url: '/recursos/JESSICA PAOLA CASTILLO RODRIGUEZ CAMILO ALBERTO VARON BENITEZ EDWAR LEANDRO MOLINA.pdf',
+    icono: 'picture_as_pdf',
+    previsualizable: true,
+    color: 'red',
+  },
 ]
 </script>
 
