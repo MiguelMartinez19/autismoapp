@@ -11,7 +11,7 @@
     <!-- Texto principal -->
     <div class="text-center q-mt-lg">
       <h2 class="text-primary text-bold">
-        💙 Comprender el Autismo es el primer paso hacia la Inclusión 💙
+        💙 mami el Autismo es el primer paso hacia la Inclusión 💙
       </h2>
       <p class="text-grey-8 text-subtitle1 q-mt-sm">
         Cada persona dentro del espectro autista es única. 
