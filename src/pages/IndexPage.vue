@@ -2,7 +2,7 @@
   <q-page class="q-pa-xl flex flex-center column bg-blue-1">
     <!-- Imagen con efecto flotante -->
     <q-img
-      src="/img/autismo-ilustracion.jpg"
+      src="/recursos/inicio.png"
       alt="Autismo e Inclusión"
       style="max-width: 450px;"
       class="rounded-borders shadow-10 animate-float"
